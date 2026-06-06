@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Streamlit Cache
+.streamlit/
+
+# Model Training Artifacts (optional)
+# Uncomment if models are too large
+# models/*.pkl
+
+# Generated Prediction Files
+data/predictions/*.csv
+
+# Temporary Files
+*.log
+*.tmp
