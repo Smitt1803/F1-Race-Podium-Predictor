@@ -74,7 +74,7 @@ F1-Race-Podium-Predictor/
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/F1-Race-Podium-Predictor.git
+git clone https://github.com/smitt1803/F1-Race-Podium-Predictor.git
 ```
 
 ```bash
